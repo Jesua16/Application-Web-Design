@@ -1,11 +1,11 @@
-# Información del Estudiante
+# Student Information
 
-- **Nombre:** Jesuá
-- **Número de Matrícula:** AL03002570
-- **Carrera:** Ingeniería en Desarrollo de Software
-- **Semestre:** 6to semestre
+- **Name:** Jesuá
+- **Registration Number:** AL03002570
+- **Degree:** Software Development Engineering
+- **Semester:** 6th semester
 
-# Información de la Asignatura
+# Course Information
 
-- **Nombre de la Asignatura:** Diseño de Páginas Web
-- **Profesor:** José Manuel Torres Mendez
+- **Course Name:** Web Page Design
+- **Professor:** José Manuel Torres Mendez
